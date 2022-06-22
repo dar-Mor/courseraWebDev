@@ -1,2 +1,2 @@
 # courseraWebDev
-Coursera course - HTML, Javascript, CSS
+Coursera course 
